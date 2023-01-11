@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/47-projects-react-vol2/static/css/main.7acaea2f.css",
+    "main.js": "/47-projects-react-vol2/static/js/main.07d3183d.js",
+    "index.html": "/47-projects-react-vol2/index.html",
+    "main.7acaea2f.css.map": "/47-projects-react-vol2/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/47-projects-react-vol2/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
