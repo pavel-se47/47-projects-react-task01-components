@@ -1,6 +1,10 @@
-// import './renderProfile.js';
-// import './renderStatistics.js';
-import './renderFriendList.js';
-// import './renderTransactionHistory.js';
+import React from 'react';
+import ReactDOM from 'react-dom/client';
+import App from './App.js';
 import 'modern-normalize/modern-normalize.css';
-// import './index.css';
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>
+);
