@@ -1,0 +1,33 @@
+table {
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0px 0px 30px 0px rgba(34, 60, 80, 0.4);
+}
+
+.trHeadTable {
+  font-size: 24px;
+  background-color: #879ceb;
+}
+
+.thHeadTable {
+  padding: 12px;
+  border-radius: 4px;
+  color: whitesmoke;
+  min-width: 160px;
+}
+
+.tdBodyTable {
+  padding: 8px;
+  border-radius: 4px;
+}
+
+.trBodyTable {
+  background-color: skyblue;
+  color: whitesmoke;
+  text-align: center;
+}
+
+.trBodyTable:nth-child(odd) {
+  background: #eba487;
+}
